@@ -5,10 +5,10 @@ language: zh-CN
 # main menu navigation
 menu:
   Home: index.html
-  Archives: archives
-  Tags: tags
-  Categories: categories
-  About: about
+  Archives: /archives
+  Tags: /tags
+  Categories: /categories
+  About: /about
   Github: https://github.com/BunnyRabbit8mile
 
 social:
