@@ -1,0 +1,3 @@
+[submodule "blog/themes/hexo-theme-random"]
+	path = blog/themes/hexo-theme-random
+	url = git@github.com:BunnyRabbit8mile/hexo-theme-random.git
