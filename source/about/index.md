@@ -1,6 +1,4 @@
 ---
 title: about
-date: 2019-04-17 20:43:20
-type: "about"
-comments: false
+date: 2020-05-30 19:25:07
 ---

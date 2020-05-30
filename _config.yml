@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Stanley 
-subtitle:
-description:
-keywords:
-author: Stanley 
-language:
-timezone:
+title: Stan Lee 
+subtitle: Stay hungry, stay foolish!
+description: Stay hungry, stay foolish!
+keywords: Programming, C++, Computer Science, Machine learning, Deep Learning, Software Engineer, Programmer, Software Engineer, Management, Java, Golang, Python, Artificial Intelligence, Back-End.
+author: Stan Lee 
+language: en 
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://BunnyRabbit8mile.github.io/blog
+url: http://BunnyRabbit8mile.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-random 
+theme: maupassant-hexo 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
